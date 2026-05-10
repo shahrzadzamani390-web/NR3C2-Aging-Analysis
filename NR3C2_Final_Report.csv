@@ -1,0 +1,5 @@
+"Dataset","Tissue","Young_samples","Old_samples","log2FC","P_value","Direction"
+"GSE307377","Skin Fibroblast",4,4,-0.448,0.3,"Lower in Old"
+"GSE191055","Skin Fibroblast",3,3,-0.37,0.154,"Lower in Old"
+"GSE262932","Skin Fibroblast",3,3,-0.289,0.139,"Lower in Old"
+"GSE263566","Heart Tissue",8,8,0.161,0.546,"Higher in Old"
