@@ -69,6 +69,6 @@ in young vs aged samples across multiple public GEO datasets using R.
 
 ## Author
 **Shahrzad Zamani**
-BSc Medical Genetics and Biology Student
+MSc Medical Genetics and Biology Student
 Bioinformatics Researcher
 📧 shahrzadzamani390@gmail.com
