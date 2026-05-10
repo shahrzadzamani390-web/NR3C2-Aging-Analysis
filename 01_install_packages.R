@@ -1,0 +1,7 @@
+install.packages("BiocManager")
+BiocManager::install("GEOquery")
+BiocManager::install("DESeq2")
+install.packages("tidyverse")
+install.packages("pheatmap")
+install.packages("pheatmap")
+BiocManager::install("EnhancedVolcano")
